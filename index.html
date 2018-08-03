@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <title>Структура компании</title>
+    <link rel="stylesheet" href="css/ordgchart.custom.css">
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.orgchart.js"></script>
+    <script type="text/javascript" src="js/init.js"></script>
+    <script src="//api.bitrix24.com/api/v1/"></script>
+    </head>
+        <body>
+            <div id="chart-container"></div>
+        </body>
+        <script>                            
+            BX24.init(function(){
+                app.collectPersons();
+            });
+        </script>
+</html>
