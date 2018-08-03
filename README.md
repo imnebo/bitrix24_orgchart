@@ -1,11 +1,11 @@
-![bitrix24_orgchart](http://soulilya.github.io/bitrix24_orgchart/img/preview.png)
+![bitrix24_orgchart](https://github.com/soulilya/bitrix24_orgchart/tree/master/img/preview.png)
 
 ## Блок-схема структуры компании для Битрикс24
 Приложение использует JavaScript библиотеки:
 - [JQuery](https://github.com/jquery/jquery)
 - [OrgChart](https://github.com/dabeng/OrgChart)
 
-##Особенности:
+## Особенности:
 - Детальная информация о структуре компании в виде развернутой блок-схемы
 - Имена и фото сотрудников, входящие в подразделение компании
 - Основная информация о сотруднике при наведении мыши на сотрудника
